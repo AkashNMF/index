@@ -1,0 +1,114 @@
+body{
+  margin: 0px;
+
+
+}
+h1{
+
+  color: #00334e;
+  text-shadow: 2px;
+  margin-top: 10px;
+  font-family: Cinzel Decorative,sans-serif;
+}
+.top{
+
+  background-color: #f6f6f6;
+  text-align: center;
+  background-size: 500px;
+  height: 600px;
+  padding-top: 40px;
+  position: relative;
+
+}
+.Ak{
+
+ object-fit: scale-down;
+}
+.akashim{
+  width: 30px;
+  height: 30px;
+  object-fit: scale-down;
+}
+.imac{
+  width: 450px;
+  height: 450px;
+  object-fit: cover;
+  object-position:top;
+  position: relative;
+
+}
+.middle{
+  text-align: center;
+  height: 800px;
+  background-color: #d6e0f0;
+}
+.Name{
+  margin: 0px;
+  font-size:70px;
+}
+.bottom{
+  background-color: #393b44;
+}
+
+.logo-com{
+  text-align: center;
+ position: relative;
+ bottom: 330px;
+}
+.Alogo{
+  height: 50px;
+  width: 50px;
+  margin: 0 auto 0 auto;
+  position: relative;
+  Right: 50px;
+}
+.Blogo{
+  height: 50px;
+  width: 50px;
+  margin: 0 auto 0 auto;
+  position: relative;
+  right:5px;
+}
+.Clogo{
+  height: 50px;
+  width: 50px;
+  margin: 0 auto 0 auto;
+  position: relative;
+  left: 45px;
+}
+.Ak{
+  position: relative;
+  top:30px;
+  border: 4px  solid #8d93ab;
+  height: 350px;
+  width: 350px;
+  border-radius: 50%;
+}
+.kash{
+  font-size: 50px;
+  font-family: Cinzel Decorative,sans-serif;
+  position: relative;
+  right:10px;
+}
+.ushwaha{
+  font-size: 50px;
+  font-family: Cinzel Decorative,sans-serif;
+  position: relative;
+  right:10px;
+}
+p{
+  text-align: center;
+}
+
+.Discription{
+  font-size: 40px;
+  width: 650px;
+  margin: 0 auto 0 auto;
+  position: relative;
+  top:50px;
+  font-family:'Bellefair', serif;
+
+  text-transform: capitalize;
+
+
+}
